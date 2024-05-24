@@ -16,7 +16,7 @@
 
 | title | description | link |
 |--|--|--|
-| 1. nextjs-typescript | Nextjs와 Typescript 블로그 앱 만들기 | [code]([next/nextjs-typescript/](https://github.com/byahram/starter/tree/master/next/nextjs-typescript)) |
+| 1. nextjs-typescript | Nextjs와 Typescript 블로그 앱 만들기 | [code](https://github.com/byahram/starter/tree/master/next/nextjs-typescript) |
 
 
 <br>
